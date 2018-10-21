@@ -1,0 +1,22 @@
+.sadCatContainer {
+    padding-top: 750px;
+    padding-left: 435px
+}
+
+.sadCatFrameContainer {
+    padding-top: 100px;
+}
+
+.sadCatOptionAContainer{
+    position: absolute;
+    margin-top: 265px;
+    height: 100px;
+    margin-left: 125px;
+}
+
+.sadCatOptionBContainer {
+    position: absolute;
+    margin-top: 265px;
+    height: 100px;
+    margin-left: 265px;
+}

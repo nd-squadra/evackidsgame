@@ -1,0 +1,7 @@
+.gameContainer {
+    height:1000px;
+    background-image: url("./assets/scrollingbackground.png");
+    width:4000px;
+    overflow-x: hidden;
+
+}

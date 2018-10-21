@@ -1,0 +1,27 @@
+.loginContainer {
+    display: flex;
+    flex-direction: column;
+    height: 1000px;
+    background-image: url("./assets/titlepage.png")
+  }
+
+  .enterButton {
+      height: 96px;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  .inputContainer {
+    margin-top:725px;
+    height: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    font-size: 40px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    text-align: center;
+  }
+  ::-webkit-input-placeholder {
+    font-style: italic;
+ }

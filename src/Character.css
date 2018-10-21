@@ -1,0 +1,7 @@
+.characterContainer {
+    padding-top: 600px;
+    position: absolute;
+    padding-left: 50px;
+    z-index: 100000000000
+
+}

@@ -1,0 +1,24 @@
+.mainMenuContainer {
+    display: flex;
+    flex-direction: column;
+    height: 1000px;
+    background-image: url("./assets/titlepage.png")
+  }
+
+  .mainMenuButtons {
+    margin-top:725px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .playButton {
+    height: 96px;
+  }
+
+  .myCatButton {
+      height: 96px;
+  }
+
+  .galleryButton {
+      height: 96px;
+  }
